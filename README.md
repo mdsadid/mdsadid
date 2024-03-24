@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 I am a results-driven web developer with a knack for building robust backend systems and a passion for creating seamless user experiences. My tech toolkit includes Laravel for powerful backend development, coupled with expertise in frontend technologies such as jQuery, React JS, Vue.js, and the art of designing with Bootstrap.
 
-- 🔭 I’m currently deeply engaged in the development of a Laravel project called 'Charity'.
+- 🔭 I’m currently deeply engaged in the development of a Laravel project called 'Paid To Click (PTC)'.
 - 🌱 I'm currently learning Tailwind CSS to level up my styling skills!
 
 ## 💻 Technologies I Work With
 
-- **Backend:** Laravel
-- **Frontend:** jQuery, React JS, Vue.js
+- **Backend:** PHP, Laravel
+- **Frontend:** JavaScript, jQuery, React JS, Vue.js
 - **CSS Framework:** Bootstrap
 
 ## 🔧 Skills

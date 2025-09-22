@@ -31,9 +31,13 @@ I am a results-driven web developer with a knack for building robust backend sys
 - **Frontend:** JavaScript, jQuery, React JS, Vue.js
 - **CSS Framework:** Bootstrap
 
-## 🔧 Skills
+## 🎓 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,jquery,react,vue,html,css,bootstrap,git)](https://skillicons.dev)
+
+## ⚙️ Tools
+
+[![Tools](https://skillicons.dev/icons?i=phpstorm,webstorm,vscode,sublime,postman)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 

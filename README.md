@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 I am a results-driven web developer with a knack for building robust backend systems and a passion for creating seamless user experiences. My tech toolkit includes Laravel for powerful backend development, coupled with expertise in frontend technologies such as jQuery, React JS, Vue.js, and the art of designing with Bootstrap.
 
-- 🔭 I’m currently deeply engaged in the development of a Laravel project called 'E-Bank'.
-- 🌱 I'm currently learning PHP to level up my backend development skills!
+- 🔭 I’m currently deeply engaged in the development of a Laravel project called 'TinyTip'.
+- 🌱 I'm currently learning React JS to level up my frontend development skills!
 
 ## 💻 Technologies I Work With
 
-- **Backend:** PHP, Laravel
+- **Backend:** PHP, Laravel, REST API
 - **Database:** MySQL
 - **Frontend:** JavaScript, jQuery, React JS, Vue.js
 - **CSS Framework:** Bootstrap

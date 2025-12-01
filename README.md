@@ -21,23 +21,33 @@ Here are some ideas to get you started:
 
 I am a results-driven web developer with a knack for building robust backend systems and a passion for creating seamless user experiences. My tech toolkit includes Laravel for powerful backend development, coupled with expertise in frontend technologies such as jQuery, React JS, Vue.js, and the art of designing with Bootstrap.
 
-- 🔭 I’m currently deeply engaged in the development of a Laravel project called 'TinyTip'.
-- 🌱 I'm currently learning React JS to level up my frontend development skills!
+- 🌱 I'm currently learning Alpine.js to level up my frontend development skills!
 
-## 💻 Technologies I Work With
+## 🧠 Tools & Technologies
 
-- **Backend:** PHP, Laravel, REST API
-- **Database:** MySQL
-- **Frontend:** JavaScript, jQuery, React JS, Vue.js
-- **CSS Framework:** Bootstrap
+### **Programming Languages**
 
-## 🎓 Skills
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,javascript,python&titles=true)
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,js,jquery,react,vue,html,css,bootstrap,git)](https://skillicons.dev)
+### **Frontend & Styling**
 
-## ⚙️ Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=phpstorm,webstorm,vscode,sublime,postman)](https://skillicons.dev)
+### **Frameworks & Libraries**
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,livewire,jquery,react,vue,alpinejs,bootstrap,tailwindcss&titles=true)
+
+### **Databases**
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true)
+
+### **Tools & Platforms**
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=phpstorm,webstorm,pycharm,vscode,apache,postman,docker,git,github,render,vercel&titles=true)
+
+### **Operating Systems**
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ubuntu,windows&titles=true)
 
 ## 📬 Get in Touch
 

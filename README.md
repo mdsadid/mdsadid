@@ -51,11 +51,17 @@ I am a results-driven web developer with a knack for building robust backend sys
 
 ## 📬 Get in Touch
 
-Connect with me on:
-
-- [Facebook](https://www.facebook.com/sadid.hasan.7/)
-- [LinkedIn](https://www.linkedin.com/in/sadid-hasan-rakib-31488819b/)
-- Email: [sadid.hasan14@gmail.com]
+<p>
+  <a href="https://www.facebook.com/sadid.hasan.7/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/sadid-hasan-rakib-31488819b/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+  </a>
+  <a href="mailto:sadid.hasan14@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
+  </a>
+</p>
 
 Feel free to explore my repositories and drop me a line if you have any questions, collaboration ideas, or just want to connect. Let's build something amazing together! 🌟
 

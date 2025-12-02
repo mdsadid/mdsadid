@@ -43,13 +43,13 @@ I am a results-driven web developer with a knack for building robust backend sys
 
 ### **Tools & Platforms**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=phpstorm,webstorm,pycharm,vscode,apache,postman,docker,git,github,render,vercel&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=phpstorm,webstorm,pycharm,vscode,composer,npm,apache,postman,docker,git,github,render,vercel&titles=true)
 
 ### **Operating Systems**
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ubuntu,windows&titles=true)
 
-## 📬 Get in Touch
+## 📬 Connect With Me
 
 <p>
   <a href="https://www.facebook.com/sadid.hasan.7/" target="_blank">
